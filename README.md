@@ -27,3 +27,10 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### To view the Landing Page, enter the following into your browser
+
+```sh
+http://localhost:8000/
+```
+
