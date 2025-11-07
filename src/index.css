@@ -1,0 +1,31 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS personalizável */
+.background {
+  background-color: #e6f5e9;
+}
+
+.font-sans {
+  font-family: 'Inter', sans-serif;
+  color: #262626;
+}
+
+html{
+  scroll-behavior: smooth;
+} 
+
+
+/* PALETA DE CORES:
+
+Azul-escuro: #2E62A6
+Azul meio tom: #7595BF
+Azul-claro: #CEE1F2
+Verde: #299947
+Verde escuro: #224335
+Amarelo: #F9A424
+Vermelho: #D0284C
+Branco: #F2F2F2
+Preto: #262626 */
